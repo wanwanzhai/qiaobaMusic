@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "乔巴音乐",
+  "usingComponents": {
+    "top": "/components/top"
+  }
+}
