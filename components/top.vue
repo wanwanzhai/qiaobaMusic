@@ -33,7 +33,7 @@
 	}
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 	.top {
 		padding: 20px 11px 20px 11px;
 		width: 100%;

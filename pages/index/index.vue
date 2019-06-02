@@ -111,7 +111,7 @@
 	}
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 	.content {
 		text-align: center;
 		height: 400upx;
