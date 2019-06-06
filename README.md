@@ -2,4 +2,7 @@
 
 功能如下（只简单做了两个界面，首页和播放页面）
 
+
 ![image](https://github.com/wanwanzhai/qiaobaMusic/blob/master/image/%E6%92%AD%E6%94%BE.png)
+
+![image](https://github.com/wanwanzhai/qiaobaMusic/blob/master/image/%E9%A6%96%E9%A1%B5.png)
