@@ -1,4 +1,4 @@
-一、乔巴音乐是用的uniApp框架，点此链接查看详情 https://uniapp.dcloud.io/，是模仿的
+一、乔巴音乐是用的uniApp框架，点此链接查看详情 https://uniapp.dcloud.io/
 
 二、功能界面
 
